@@ -5,12 +5,19 @@ Liar’s Dice is a complex game of probability and deceit played with 2 or more 
 RULES: all players begin by shaking their phones to roll the dice. The first bidder can be chosen at random or simply by rolling one die for the highest value.
 
 BIDDING: unless called by the first bidder, 1’s are wild (it’s therefore common for the first player to bid on values higher than 1). A player’s bid is for all the dice on the table, and each bid must be higher than the previous in either face value or quantity. Example: 
+
 	Player 1: Four 5’s
+	
 	Player 2: Six 5’s
+	
 	Player 3: Three 6’s
+	
 It’s also customary to allow for players to bid on 1’s, but only at half the quantity of the previous bid (rounding up on odd numbers). Example:
+
 	Player 1: Three 4’s
+	
 	Player 2: Five 4’s
+	
 	Player 3: Three 1’s
 	
 CHALLENGING: if a player believes the previous bid is statistically unlikely, he or she may choose to challenge it. A player may only challenge on his or her turn and the challenge must be to the current bid as given by the previous player. When a player challenges a bid, everyone must lift their cups and show their dice. If the amount of the face value told by the bidder is less than that of the table, the challenged player loses; otherwise, the challenger loses. Whoever loses must take one die from their cup, after which everyone will roll their dice again, resetting the game. The player that remains with at least one die after all others have lost theirs wins the game.
