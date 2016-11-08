@@ -2,7 +2,7 @@
 
 iTunes link: https://itunes.apple.com/us/app/liars-dice-local-multiplayer/id1124281574?mt=8
 
-This is a multiplayer game, made to simulate a cup and five dice - this is not a game to be played by a single person, you must be in the same room with the people with whom you are playing, each of which must have the app on their phone. Although it would be possible to create an online version of the game (which this app does not support), the essence of Liar's Dice is to be able to see your opponents, and base your moves off their reactions.
+This is a multiplayer game, made to simulate a cup and five dice - this is not a game to be played by a single person; you must be in the same room with the people with whom you are playing, each of which must have the app on their phone. Although it would be possible to create an online version of the game (which this app does not support), the essence of Liar's Dice is to be able to see your opponents, and base your moves off their reactions.
 
 Liar’s Dice is a complex game of probability and deceit played with 2 or more people, each with 5 six sided dice and a small cup.
 
